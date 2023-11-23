@@ -5,6 +5,8 @@ ext {
     targetSdkVersion = 32
     compileSdkVersion = 32
 
+    paging_version = '1.0.0-alpha14'
+
     // Plugins
     google_services_version = '4.3.10'
     gradle_plugin_version = '4.1.3'
